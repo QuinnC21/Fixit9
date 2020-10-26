@@ -9,42 +9,14 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "describeYou",
-        "Elements",
-        "radYou.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "describeYou",
-        "Elements",
-        "lblOut.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "describeYou",
-        "Elements",
-        "btnNextII.json"
-      ]
-    }
-  ],
+  "children": [],
   "class": "",
   "designHeight": 0,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "describeYou",
+  "id": "Login",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -52,13 +24,11 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "describeYou.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
